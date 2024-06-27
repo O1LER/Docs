@@ -4,8 +4,7 @@ hide:
 ---
 # BeamMP Community Rules
 
-!!! info
-  ## BeamMP Staff are not strictly bound by these rules and may operate at their own discretion. In addition to these rules, Discord's [Community Guidelines](https://discord.com/guidelines/) and [Terms of Service](https://discord.com/terms/) apply, and are enforced.
+!!! BeamMP Staff are not strictly bound by these rules and may operate at their own discretion. In addition to these rules, Discord's [Community Guidelines](https://discord.com/guidelines/) and [Terms of Service](https://discord.com/terms/) apply, and are enforced.
 
 ## 1. BeamMP General Rules:
 
